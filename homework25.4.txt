@@ -1,0 +1,12 @@
+homework - 25.4.17
+------------------
+
+A) Draw a diagram of all the requests going from ynet.co.il,    including CSS, Javascript and other files
+
+1. Write an XML document describing a class of students where each    students has grades for 5 different topics.
+
+2. Write an XML document describing a school (use the class XML from    previous task)
+
+3. Write a JSON document describing a class of students where each    students has grades for 5 different topics.
+
+4. Write a JSON document describing a school (use the class XML from    previous task)
