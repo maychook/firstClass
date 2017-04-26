@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<class>
+       <student>
+			<name>Albert Ainshtain</name>
+			<grade name="Math">95</grade>
+			<grade name="English">87</grade>
+			<grade name="Art">100</grade>
+			<grade name="Sport">45</grade>
+			<grade name="History">63</grade>
+	   </student>
+	   <student>
+			<name>Sheldon Cooper</name>
+			<grade name="Math">100</grade>
+			<grade name="English">100</grade>
+			<grade name="Art">100</grade>
+			<grade name="Sport">100</grade>
+			<grade name="History">100</grade>
+	   </student>
+	   <student>
+			<name>Peter Griffin</name>
+			<grade name="Math">25</grade>
+			<grade name="English">42</grade>
+			<grade name="Art">65</grade>
+			<grade name="Sport">0</grade>
+			<grade name="History">33</grade>
+	   </student>
+	</class>
