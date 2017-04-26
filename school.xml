@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<class name="classRoom">
+		<classNumber></classNumber>
+		<student>
+			<first_name></first_name>
+			<last_name></last_name>
+			<grade type="integer" name="Art"></grade>
+			<grade type="integer" name="Math"></grade>
+			<grade type="integer" name="Sport"></grade>
+			<grade type="integer" name="English"></grade>
+			<grade type="integer" name="History"></grade>
+		</student>
+	</class>
+	<school>
+		<class type="classRoom"></class>
+		<class type="classRoom"></class>
+		<class type="classRoom"></class>
+		<class type="classRoom"></class>
+		<class type="classRoom"></class>
+	</school>
