@@ -12,9 +12,9 @@
 		</student>
 	</class>
 	<school>
-		<class type="classRoom"></class>
-		<class type="classRoom"></class>
-		<class type="classRoom"></class>
-		<class type="classRoom"></class>
-		<class type="classRoom"></class>
+		<class type="classRoom" name="4"></class>
+		<class type="classRoom" name="5"></class>
+		<class type="classRoom" name="6"></class>
+		<class type="classRoom" name="7"></class>
+		<class type="classRoom" name="8"></class>
 	</school>
