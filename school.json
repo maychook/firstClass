@@ -1,6 +1,67 @@
 [
-	"school"
-	{
-		
-	}
+    name: "Ort", 
+    classes: 
+    [
+        {
+            name: "A1",
+            studens: 
+            [    
+                {
+                    name: "May",
+                    grades: 
+                    [
+                        {
+                            subject: "math",
+                            grade: 89
+                        }, 
+                        {
+                            subject: "assembly",
+                            grade: 99
+                        }, 
+                        {
+                            subject: "fullstack",
+                            grade: 100
+                        }
+                    ]                    
+                },
+                {
+                    name: "Peter",
+                    grades: 
+                    [
+                        {
+                            subject: "math",
+                            grade: 59
+                        }, 
+                        {
+                            subject: "assembly",
+                            grade: 92
+                        }, 
+                        {
+                            subject: "fullstack",
+                            grade: 40
+                        }
+                    ]                    
+                }, 
+                {
+                    name: "Shelly",
+                    grades: 
+                    [
+                        {
+                            subject: "math",
+                            grade: 90
+                        }, 
+                        {
+                            subject: "assembly",
+                            grade: 87
+                        }, 
+                        {
+                            subject: "fullstack",
+                            grade: 74
+                        }
+                    ]                    
+                }, 
+
+            ]
+        }
+    ]
 ]
